@@ -93,8 +93,8 @@
 .ui-slider .ui-slider-handle {
 	position: absolute;
 	z-index: 2;
-	width: 1.8em;
-	height: .8em;
+	width: 30px;
+	height: 15px;
 	cursor: default;
 }
 /*
@@ -154,15 +154,14 @@
 .ui-slider-horizontal {
 	position:absolute;
 	left: 17%;
-	top: .6em;
+	top: 9px;
 	width: 57%;
-	height: .4em;
+	height: 7px;
 }
 .ui-slider-horizontal .ui-slider-handle {
-	/*font-size:.8em;*/
 	outline:none;
-	top: -1.15em;
-	margin-left: -1em;
+	top:-19px;
+	margin-left:-17px;
 }
 .ui-slider-horizontal .ui-slider-range {
 	top: 0;
@@ -179,23 +178,10 @@
 
 /* Component containers
 ----------------------------------*/
-.ui-widget {
-	font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
-	font-size: 1.1em;
-}
-.ui-widget .ui-widget {
-	font-size: 1em;
-}
-.ui-widget input,
-.ui-widget select,
-.ui-widget textarea,
-.ui-widget button {
-	font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
-	font-size: 1em;
-}
+
 .ui-widget-content {
 	border: 1px solid #dddddd;
-	background: #eeeeee url("images/ui-bg_highlight-soft_100_eeeeee_1x100.png") 50% top repeat-x;
+	background: #eeeeee;
 	color: #333333;
 }
 .ui-widget-content a {
