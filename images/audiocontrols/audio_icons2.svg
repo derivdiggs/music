@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="280.75px" height="126.373px" viewBox="0 0 280.75 126.373" enable-background="new 0 0 280.75 126.373"
+	 xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="22.7827" y1="43.0889" x2="22.7827" y2="0">
+	<stop  offset="0.2079" style="stop-color:#999999"/>
+	<stop  offset="0.4913" style="stop-color:#808080"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon fill="url(#SVGID_1_)" points="0,0 45.565,22.287 0,43.089 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="813.2822" y1="45" x2="813.2822" y2="0" gradientTransform="matrix(-1 0 0 1 974.0645 0)">
+	<stop  offset="0.2079" style="stop-color:#999999"/>
+	<stop  offset="0.4913" style="stop-color:#808080"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon fill="url(#SVGID_2_)" points="177.564,0 157.26,13.344 144,13.259 144,33.148 157.26,33.148 177.564,45 "/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="741.2822" y1="45" x2="741.2822" y2="0" gradientTransform="matrix(-1 0 0 1 974.0645 0)">
+	<stop  offset="0.2079" style="stop-color:#999999"/>
+	<stop  offset="0.4913" style="stop-color:#808080"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon fill="url(#SVGID_3_)" points="249.564,0 229.26,13.344 216,13.259 216,33.148 229.26,33.148 249.564,45 "/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="81" y1="45" x2="81" y2="0">
+	<stop  offset="0.2079" style="stop-color:#999999"/>
+	<stop  offset="0.4913" style="stop-color:#808080"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path fill="url(#SVGID_4_)" d="M90,36c0,4.971-4.029,9-9,9l0,0c-4.971,0-9-4.029-9-9V9c0-4.971,4.029-9,9-9l0,0c4.971,0,9,4.029,9,9
+	V36z"/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="108" y1="45" x2="108" y2="0">
+	<stop  offset="0.2079" style="stop-color:#999999"/>
+	<stop  offset="0.4913" style="stop-color:#808080"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path fill="url(#SVGID_5_)" d="M117,36c0,4.971-4.029,9-9,9l0,0c-4.971,0-9-4.029-9-9V9c0-4.971,4.029-9,9-9l0,0
+	c4.971,0,9,4.029,9,9V36z"/>
+<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="269.25" y1="42" x2="269.25" y2="6">
+	<stop  offset="0.2079" style="stop-color:#999999"/>
+	<stop  offset="0.4913" style="stop-color:#808080"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path fill="url(#SVGID_6_)" d="M262.5,6c-1.557,0-3.06,0.218-4.5,0.59c7.76,2.001,13.5,9.026,13.5,17.41
+	c0,8.385-5.74,15.408-13.5,17.41c1.44,0.371,2.943,0.59,4.5,0.59c9.941,0,18-8.059,18-18C280.5,14.059,272.441,6,262.5,6z"/>
+<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="259" y1="28.5" x2="259" y2="16.5">
+	<stop  offset="0.2079" style="stop-color:#999999"/>
+	<stop  offset="0.4913" style="stop-color:#808080"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<circle fill="url(#SVGID_7_)" cx="259" cy="22.5" r="6"/>
+<polygon fill="#FFCD05" points="0.125,71.687 45.69,93.974 0.125,114.775 "/>
+<polygon fill="#FFCD05" points="177.689,71.687 157.385,85.031 144.125,84.946 144.125,104.835 157.385,104.835 177.689,116.687 "/>
+<polygon fill="#FFCD05" points="249.689,71.687 229.385,85.031 216.125,84.946 216.125,104.835 229.385,104.835 249.689,116.687 "/>
+<path fill="#FFCD05" d="M90.125,107.687c0,4.971-4.029,9-9,9l0,0c-4.971,0-9-4.029-9-9v-27c0-4.971,4.029-9,9-9l0,0
+	c4.971,0,9,4.029,9,9V107.687z"/>
+<path fill="#FFCD05" d="M117.125,107.687c0,4.971-4.029,9-9,9l0,0c-4.971,0-9-4.029-9-9v-27c0-4.971,4.029-9,9-9l0,0
+	c4.971,0,9,4.029,9,9V107.687z"/>
+<path fill="#FFCD05" d="M262.625,77.687c-1.557,0-3.06,0.218-4.5,0.59c7.76,2.001,13.5,9.026,13.5,17.41
+	c0,8.385-5.74,15.408-13.5,17.41c1.44,0.371,2.943,0.59,4.5,0.59c9.941,0,18-8.059,18-18
+	C280.625,85.746,272.566,77.687,262.625,77.687z"/>
+<circle fill="#FFCD05" cx="259.125" cy="94.187" r="6"/>
+</svg>

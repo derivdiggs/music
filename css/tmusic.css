@@ -1,0 +1,154 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@viewport {
+	width:device-width;
+}
+
+header {
+	height:75px;
+}
+
+header h1 {
+	font-size: 2em;
+	top:0px;
+}
+
+h1 {
+	font-size: 1.2em;
+}
+
+.toggle-nav {
+	display:none;
+}
+
+.imagestrip {
+	background-image:url(../images/thr_imagestrip_400.jpg);
+}
+
+.release_mobile_header {
+	display:none;
+}
+
+.release_header {
+	display:inline;
+}
+
+.homeholder, .contactholder {
+	
+	text-align:left;
+	width:70%;
+	max-width:70%;
+	left:0;
+	right:0;
+	margin-left:auto;
+	margin-right:auto;
+	height:40%;
+}
+
+audio {
+	padding-top:20px;
+}
+
+.releaseholder {
+	width:80%;
+	max-width:500px;
+}
+
+#holder {
+	top:118px;
+	font-size:1.5em;
+}
+
+nav {
+	position:relative;
+	padding-top:.2em;
+	padding-bottom:.5em;
+	height: 1.6em;
+	width: 90%;
+	max-width:800px;
+	left:0;
+	right:0;
+	margin-left:auto;
+	margin-right:auto;
+	overflow:hidden;
+	-webkit-transform: translateX(0);
+}
+
+nav ul li {
+	padding:0em;
+	margin-top:-.2em;
+}
+
+ nav ul li a {
+	/**/
+}
+
+nav ul li,
+    nav ul li a {
+        display: inline-block;
+		/*height:1em;*/
+		border-top:none;
+		padding-left:.4em;
+		padding-right:.4em;
+}
+
+.selectednav {
+	background-color:#333;
+	border-style:solid;
+	border-width:thin;
+	border-bottom:none;
+	border-top:none;
+	border-color:#FC0;
+}
+
+.fix {
+	left:20px;
+	height:300px;
+	opacity:1;
+	background:#fff;
+}
+
+.ref {
+	left:0;
+	right:0;
+	top:535px;
+	width:98%;
+	text-align:left;
+}
+
+.twitter-timeline {
+	display:inline;
+	margin-top:30px;
+	opacity:.8;
+}
+
+.merchstatic {
+	position:relative;
+	display:inline-block;
+	max-width:90%;
+	left:0;
+}
+
+.merchantimage {
+	position:absolute;
+	width:50%;
+	left:0;
+	right:0;
+	margin-left:0;
+    margin-right:0;
+}
+
+.merchcopy {
+	
+	float:left;
+	margin-left:55%;
+	top:0;
+	width:40%;
+	margin-bottom:20%;
+	margin-top:3%;
+}
+
+.merchcontent {
+	display:none;
+}
