@@ -5,6 +5,10 @@
 	width:device-width;
 }
 
+body {
+	background:black url(../images/home_bk.jpg) center center no-repeat;
+}
+
 header {
 	height:75px;
 }

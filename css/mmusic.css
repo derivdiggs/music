@@ -13,7 +13,6 @@ html, body {
   	margin: 0;
     font-size: 1em;
     line-height: 1.4;
-	
  	background:black url(../images/home_bk_sm.jpg) center center no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
