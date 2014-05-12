@@ -43,7 +43,6 @@ header h1 {
 	position:absolute;
 	margin-left:.8em;
 	opacity:0;
-	 Helvetica, sans-serif;
 	font-size: 1.1em;
 	top:1em;
 	-webkit-transition : all 1s;
@@ -240,7 +239,7 @@ nav ul li a {
 	
 	margin-left:2em;
 	margin-right:2em;
-	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	
 }
 /*
 *** Show navigation on mobile
@@ -538,6 +537,7 @@ audio {
     right: 0;
     bottom: 0;
     left: 0;
+	font-family:Arial, Helvetica, sans-serif;
 	-webkit-transition: 1s ease-in-out;
     -moz-transition: 1s ease-in-out;
     -ms-transition: 1s ease-in-out;
