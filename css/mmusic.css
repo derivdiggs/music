@@ -131,6 +131,27 @@ nav ul li a {
 /*
 *** Section Holders
 */
+.underholder { 
+  	position:relative; 
+  	width:100%;
+  	height:100%;
+  	top:0;
+  	left: 0;
+	z-index:2;
+}
+
+.underholder::after {
+	content:"";
+	background: url(../images/blacktrans.png);	
+  	position:absolute; 
+	opacity:.6;
+  	width:100%;
+  	height:100%;
+  	top:0;
+  	left: 0;
+  	z-index:-1;
+}
+
 .headholder {
 	position:absolute;
 	display:inline-block;
@@ -236,9 +257,8 @@ nav ul li a {
 .releasedescription p {
 	position:relative;
 	text-align:left;
-	
-	margin-left:2em;
-	margin-right:2em;
+	padding-left:2em;
+	padding-right:2em;
 	
 }
 /*

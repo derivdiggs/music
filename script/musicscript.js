@@ -155,7 +155,7 @@ $(document).ready(function() {
 		$releaseDescription.append('<h1><span class="yellow_text">'+playlist[currentRelease].artist+'</span></h1>');
 		
 		$releaseDescription.append('<h2>'+playlist[currentRelease].catalog+' released: '+playlist[currentRelease].date+'</h2>');
-		$releaseDescription.append('<p>'+playlist[currentRelease].description+'</p>');
+		$releaseDescription.append('<div class="underholder"><p>'+playlist[currentRelease].description+'</p></div>');
 		
 		
 		
