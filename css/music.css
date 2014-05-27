@@ -24,11 +24,6 @@ h2 {
 	margin-left: auto;
     margin-right: auto;
 }
-/*
-.merchcontent:before{
-	content:'<script type="text/javascript" src="http://www.dizzyjam.com/embed/js/thoughtrender.js"></script>';
-}
-*/
 
 .merchcontent {
 	display:block;	
@@ -37,7 +32,6 @@ h2 {
 .merchstatic {
 	display:none;
 }
-
 
 .releaseholder {
 	position:absolute;
@@ -53,7 +47,6 @@ h2 {
 	margin-right:10px;
 	height:100%;
 	min-height:700px;
-	/*width:100%;*/
 	max-width:50%;
 }
 

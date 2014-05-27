@@ -310,7 +310,7 @@ a.toggle-nav {
 	outline:none;
 }
 
-.prev-slide.status-enabled:hover {
+.no-touch .prev-slide.status-enabled:hover {
 	background-position:-190px;
 }
 
@@ -336,11 +336,6 @@ a.toggle-nav {
     white-space: nowrap;
     z-index: 1;
     opacity:.7;
-	/*
-	border-style:dashed;
-	border-color:#FCF;
-	border-width:thin;
-	*/
 	background:url(../images/arrow_right.svg);
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -353,7 +348,7 @@ a.toggle-nav {
 	outline:none;
 }
 
-.next-slide.status-enabled:hover {
+.no-touch .next-slide.status-enabled:hover {
 	background-position:1px;
 }
 
@@ -610,7 +605,7 @@ a:visited {
 	color:#fff;
 }
 
-a:hover {
+.no-touch a:hover {
 	color:#FC0;
 }
 
