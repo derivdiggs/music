@@ -1,4 +1,14 @@
 // JavaScript Document
+/*
+var jquery = require('./jquery.js');
+var modernizer = require('./modernizrv2.7.1.js');
+var overthrow = require('./overthrow.js');
+var uislider = require('./uislider.js');
+*/
+/////////
+////////
+/////////
+////////
 
 $(document).ready(function() {
 	
